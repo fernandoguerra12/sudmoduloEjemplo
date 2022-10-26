@@ -1,0 +1,3 @@
+[submodule "ejersicio-basico"]
+	path = ejersicio-basico
+	url = https://github.com/fernandoguerra12/ejersicio-basico.git
